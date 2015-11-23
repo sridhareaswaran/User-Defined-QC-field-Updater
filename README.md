@@ -1,6 +1,20 @@
 ### User Defined QC field Updater 
 This is an excel VBA utility used to Update or Fetch data from the testcases in HP Quality Center.
 
+#### Currently implemeted fields:
+- Test Name
+- Application
+- Automation Status
+- Change Status
+- Complexity
+- Component Status
+- Data Driven
+- Description
+- Keywords
+- Regression
+
+> **Note:** Kindly verify if the respective field value mentioned in "reference" sheet is same as the one in your HP QC. The database field names may vary depending on your company. Do check with QC admin.
+
 
 #### Screenshot: 
 ![alt text][logo]
