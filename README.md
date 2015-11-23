@@ -29,4 +29,4 @@ This is an excel VBA utility used to Update or Fetch data from the testcases in 
 > cheers 
 
 
-[logo]: www.google.com "test"
+[logo]: https://raw.githubusercontent.com/sridhareaswaran/User-Defined-QC-field-Updater/master/img/QC.png "excel face"
